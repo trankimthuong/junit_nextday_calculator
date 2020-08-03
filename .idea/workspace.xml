@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a17e1d7-a07c-4a20-9f76-beabbac1b493" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fZKm4kCBi1JCveJTImsHlvHpuC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.NextDayCalculatorTest">
+    <configuration name="NextDayCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit_nextday_calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NextDayCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextDayCalculatorTest.testNexdayCalculator1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit_nextday_calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NextDayCalculatorTest" />
+      <option name="METHOD_NAME" value="testNexdayCalculator1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NextDayCalculatorTest" />
+        <item itemvalue="JUnit.NextDayCalculatorTest.testNexdayCalculator1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a17e1d7-a07c-4a20-9f76-beabbac1b493" name="Default Changelist" comment="" />
+      <created>1596420331063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596420331063</updated>
+      <workItem from="1596420334350" duration="2955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="962" y="107" width="537" height="660" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596422726503">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="962" y="107" width="537" height="660" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1596422726503" />
+    <state x="1035" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1596421418024">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1035" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1596421418024" />
+    <state width="1557" height="220" key="GridCell.Tab.0.bottom" timestamp="1596423314880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596423314880" />
+    <state width="1557" height="220" key="GridCell.Tab.0.center" timestamp="1596423314880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596423314880" />
+    <state width="1557" height="220" key="GridCell.Tab.0.left" timestamp="1596423314880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596423314880" />
+    <state width="1557" height="220" key="GridCell.Tab.0.right" timestamp="1596423314880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596423314880" />
+    <state x="935" y="338" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596420369004">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="935" y="338" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.860@0.0.1600.860" timestamp="1596420369004" />
+    <state x="1001" y="157" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596420370844">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1001" y="157" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1596420370844" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1596422952743">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1596422952743" />
+  </component>
+</project>
